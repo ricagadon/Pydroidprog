@@ -1,0 +1,63 @@
+Student = {
+
+"Name":"RICA GADON",
+"Age":"18",
+"Sex":"Female",
+"Birthday":"June 28, 2006",
+"Grade":"First Year College",
+"Course":"Bachelor of Science in Electrical Engineering",
+"Hobbies":"Watching Anime, Play Online Game, Read Wattpad/Manwha",
+"Favorite Color":"Deep Blue",
+"Biggest Fear":"Losing someone you love",
+"Pet Peeve":"Loud Chewing",
+"Favorite Animal":"Cat and Dog",
+"City or Country":"Country",
+"Status":"Single",
+"Favorite Movie Genre":"Romance & Comedy",
+"Morning Person or Night Owl":"Night owl","Weakness":"Impatience",
+"Musical Talents/Instrument Played":"None",
+"Favorite Book":"None",
+"Favorite Food":"None",
+"Personality Type":"Introvert",
+"Most Admired Person":"Her parents",
+"Current Challenges":"Problem Solving Skills and Time Management",
+"Strength":"Creativity & empathy",
+"Hidden Talent":"None",
+"Childhood Dream":"Travel Abroad",
+"Dream Vacation":"Switzerland",
+"Goals/Aspirations":"Develop strong communication and teamwork skills",
+"Dry Season or Wet Season":"Dry Season",
+"Love Language":"Quality Time & Acts of Service",
+"One Word to Describe Herself":"Imaginative"
+}
+print(Student["Name"])
+print(Student["Age"])
+print(Student["Sex"])
+print(Student["Birthday"])
+print(Student["Grade"])
+print(Student["Grade"])
+print(Student["Course"])
+print(Student["Hobbies"])
+print(Student["Favorite Color"])
+print(Student["Biggest Fear"])
+print(Student["Pet Peeve"])
+print(Student["Favorite Animal"])
+print(Student["City or Country"])
+print(Student["Status"])
+print(Student["Favorite Movie Genre"])
+print(Student["Morning Person or Night Owl"])
+print(Student["Weakness"])
+print(Student["Musical Talents/Instrument Played"])
+print(Student["Favorite Book"])
+print(Student["Favorite Food"])
+print(Student["Personality Type"])
+print(Student["Most Admired Person"])
+print(Student["Current Challenges"])
+print(Student["Strength"])
+print(Student["Hidden Talent"])
+print(Student["Childhood Dream"])
+print(Student["Dream Vacation"])
+print(Student["Goals/Aspirations"])
+print(Student["Dry Season or Wet Season"])
+print(Student["Love Language"])
+print(Student["One Word to Describe Herself"])
